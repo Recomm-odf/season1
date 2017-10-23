@@ -19,11 +19,10 @@
 |2017.10.16(월)|조/주제 선정|[원본](https://drive.google.com/file/d/0B8itZwvBtXr4cGdzelpfSVVGTkE/view?usp=sharing)<BR>[수정본](https://drive.google.com/file/d/0B8itZwvBtXr4NnotODRNZEprQ2s/view?usp=sharing)|
 |2017.10.23(월)|분석/개발 환경 선정|Python(언어), Jupyter/AWS(환경)|
 ||주제선정|서울시 소상공인을 위한 젠트리피케이션 활용 업소 이전 추천 모델|
-||개별과제|Gentrification 관련 조사|
+||개별과제|Gentrification 관련 조사(5~10분 분량)|
 |2017.10.30(월)|Gentrification 개별 발표 및 토론||
 ||국책과제 경험 공유|발표자:김기범|
 ||Jupyter 기본 사용법 공유|발표자:황중원|
-||
 |2017.11.06(월)|||
 |2017.11.13(월)|||
 |2017.11.20(월)|||
