@@ -26,7 +26,8 @@
 ||[자료링크](./notebook/Gentrification.ipynb)|발표자: 황중원|
 |2017.11.06(월)|데이터 수집/요청사항 정리|구글 공유 드라이브 data 폴더 아래|
 ||국책과제 경험 공유|발표자:김기범|
-||Jupyter 기본 사용법 공유|발표자:황중원|
+||[Gentrification Jupyter 분석 예제](https://github.com/arkingupta/Gentrification-In-San-Diego/blob/master/Gentrification.ipynb)|발표자:황중원|
+||[AWS server 견적](https://drive.google.com/open?id=1XyWmo5r3J27iNN99a4w5185CaGByz5wK) 및 [Jupyter 설치법 조사](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5)|조사자:황중원|
 |2017.11.13(월)|||
 |2017.11.20(월)|||
 |2017.11.27(월)|||
