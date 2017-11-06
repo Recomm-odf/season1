@@ -22,7 +22,7 @@
 ||개별과제|Gentrification 관련 조사(5~10분 분량)|
 |2017.10.30(월)|Gentrification 개별 발표 및 토론||
 ||자료링크|발표자: 김기범, 남성욱|
-||자료링크|발표자: 김재욱|
+||[자료링크](https://drive.google.com/open?id=1_4e36Ku_fEVrbSW_6aS4fUdzB5iPi1fu)|발표자: 김재욱|
 ||[자료링크](./notebook/Gentrification.ipynb)|발표자: 황중원|
 |2017.11.06(월)|데이터 수집/요청사항 정리|구글 공유 드라이브 data 폴더 아래|
 ||국책과제 경험 공유|발표자:김기범|
