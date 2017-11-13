@@ -28,7 +28,12 @@
 ||국책과제 경험 공유|발표자:김기범|
 ||[Gentrification Jupyter 분석 예제](https://github.com/arkingupta/Gentrification-In-San-Diego/blob/master/Gentrification.ipynb)|발표자:황중원|
 ||[AWS server 견적](https://drive.google.com/open?id=1XyWmo5r3J27iNN99a4w5185CaGByz5wK) 및 [Jupyter 설치법 조사](https://medium.com/towards-data-science/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5)|조사자:황중원|
-|2017.11.13(월)|||
+|2017.11.13(월)|목표주제 재설정|젠트리피케이션을 고려한 서울시내 상권별 부동산 입지조사|
+||젠트리피케이션 지표선정|구글드라이브>공유데이터 정리에 기록|
+||다음주 준비내용|1. 경리단길을 타겟으로 젠트리피케이션 변화 지표분석|
+|||  1-1. 지표분석을 하기위한 데이터 스케일링/노말라이징 필요|
+|||  1-2. 지표정리|
+||참고|[공유자료]()|
 |2017.11.20(월)|||
 |2017.11.27(월)|||
 |2017.12.04(월)|||
