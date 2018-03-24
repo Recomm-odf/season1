@@ -34,9 +34,5 @@
 |||  1-1. 지표분석을 하기위한 데이터 스케일링/노말라이징 필요|
 |||  1-2. 지표정리|
 ||참고|[공유자료](https://github.com/Recomm-odf/season1/blob/master/notebook/Discussion.ipynb)|
-|2017.11.20(월)|||
-|2017.11.27(월)|||
-|2017.12.04(월)|||
-|2017.12.11(월)|||
-|2017.12.18(월)|||
-|2017.12.25(월)|성탄절||
+|2017.11.20(월)|맡은 분야 정리 및 조사|~2018.1까지|
+|2018.1|최종발표 및 1기 활동 종료|[발표자료](https://github.com/Recomm-odf/season1/blob/master/notebook/%EC%A0%A0%ED%8A%B8%EB%A6%AC%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84_%EA%B3%A0%EB%A0%A4%ED%95%9C_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EB%82%B4_%EB%8F%99%EB%8B%A8%EC%9C%84_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%9E%85%EC%A7%80_%EC%B6%94%EC%B2%9C_%EB%AA%A8%EB%8D%B8(%EB%B0%9C%ED%91%9C%EC%9A%A9).ipynb)|
